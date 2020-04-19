@@ -28,6 +28,8 @@ int countAndMerge(int arr[], int l, int m, int r){
             j++;
             k++;
 
+            result = result + (lSize - i);
+
         }
     }
 
@@ -42,14 +44,12 @@ int countAndMerge(int arr[], int l, int m, int r){
         j++;
         k++;
     }
+
+    return result;
 }
 
 int countInversion(int arr[], int l, int r){
     int result = 0;
-
-    Test test;
-    string name;
-    float fne;
 
     if(l < r){
         int m = l + (r - l)/2;
