@@ -43,6 +43,12 @@ int main() {
     cout << &str << endl;
 
     cout << *((int*)0x61fec8) << endl;
+    cout << *((char*)0x61fec8) << endl;
+    cout << *((double*)0x61fec8) << endl;
+
+//    cout << &(&arr) << endl;
+
+
 
     return 0;
 }

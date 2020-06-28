@@ -11,7 +11,25 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f64fa0fc-8cf4-4495-ba55-f9d371baa32f" name="Default Changelist" comment="" />
+    <list default="true" id="f64fa0fc-8cf4-4495-ba55-f9d371baa32f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../CycleSort/.idea/CycleSort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HoaresPartition/.idea/HoaresPartition.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KthSmallestelement/.idea/KthSmallestelement.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LomutoPartition/.idea/LomutoPartition.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NaiveCountingSort/.idea/NaiveCountingSort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NaivePartition/.idea/NaivePartition.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortArraywithTwoTypesOfelements/.idea/SortArraywithTwoTypesOfelements.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chocolateDistrtibutionProblem/.idea/chocolateDistrtibutionProblem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../countSortStable/.idea/countSortStable.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mergeOverlappingIntervals/.idea/mergeOverlappingIntervals.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../overlappingIntervals/.idea/overlappingIntervals.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickSort/.idea/quickSort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sortArrayThreeTypesOfElements/.idea/sortArrayThreeTypesOfElements.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test2dArrayForEach/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MergeSort/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MergeSort/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SortWithCustomComparater/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SortWithCustomComparater/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +39,11 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1ade9H9tNmmBLIyumTiiL9wNKFn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -61,6 +83,7 @@
       <option name="presentableId" value="Default" />
       <updated>1587069744919</updated>
       <workItem from="1587069748711" duration="985000" />
+      <workItem from="1587933281337" duration="667000" />
     </task>
     <servers />
   </component>
